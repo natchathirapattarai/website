@@ -14,7 +14,7 @@ useHead({
 
       <!-- Header -->
         <header id="header">
-          <a href="index.html" class="logo"><img width="100%" height="auto" src="~/assets/images/logo-full.png" alt="" /></a>
+          <a href="/" class="logo"><img width="100%" height="auto" src="~/assets/images/logo-full.png" alt="" /></a>
           <ul class="icons" style="margin: 50px;">
             <li><a target="_new" href="https://www.instagram.com/natchathirapattarai" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
             <li><a target="_new" href="https://www.youtube.com/channel/UCP5m45CU8qFCyFdl26dAYUA" class="icon brands fa-youtube"><span class="label">Twitter</span></a></li>
