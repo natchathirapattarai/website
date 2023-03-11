@@ -33,7 +33,7 @@ useHead({
               <p>We teach Acting, VJ, RJ, Dubbing, Direction, NewsReading, Music & Dance</p>
             </header>
           </div>
-          <span class="image object" style="background-image: url('~/assets/images/banner.jpg'); background-size: cover; background-position: 50% 50%;">
+          <span class="image object">
             <img src="~/assets/images/banner.jpg" alt="Natchathirapattarai Banner" style="opacity: 0;">
           </span>
         </section>
